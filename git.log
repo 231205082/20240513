@@ -1,0 +1,80 @@
+commit b154341531d0a7b3d94c25a6a3fcb105df40289b
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 16:04:44 2024 +0900
+
+    ピースの色を変更４
+
+commit 26fb3cc69d3fdecc338988774cbf1ec77594c1e7
+Author: 231205082 <146417149+231205082@users.noreply.github.com>
+Date:   Mon May 13 16:02:48 2024 +0900
+
+    ピースの色を変更３
+
+commit 2e30823982299a8a5462456a7d533e475d3f263d
+Merge: 7ba7e17 4510341
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 16:01:27 2024 +0900
+
+    Merge branch 'main' of https://github.com/231205082/20240513
+
+commit 7ba7e178dcc39734e1268321d42879c15bd4fa6e
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 16:01:21 2024 +0900
+
+    ピースの色を変更2
+    
+    白青
+
+commit 4510341d7960b2f2aba046a8da1c755bf8daf032
+Author: 231205082 <146417149+231205082@users.noreply.github.com>
+Date:   Mon May 13 15:59:42 2024 +0900
+
+    ピースの色を変更1
+    
+    白青
+
+commit 98af341154b11be70671ed17d47590bb8d59050b
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:58:14 2024 +0900
+
+    ピースの色を変更
+    
+    skyblue→white
+
+commit e918fe1e41aa4e04ff5025f5971b9a36f857b513
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:56:35 2024 +0900
+
+    ピースの色を変更
+    
+    blue→white
+
+commit ca61e43c70e00530f921d94766042d2cbfb12b4e
+Author: 231205082 <146417149+231205082@users.noreply.github.com>
+Date:   Mon May 13 15:52:36 2024 +0900
+
+    ピースの色を変更
+    
+    cyan→skyblue
+
+commit 0a57e53ee7349620ff90d8c2b9c810527981efbb
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:47:53 2024 +0900
+
+    ピースの落下速度を修正
+    
+    遅くした
+
+commit faa8808259cbf785bbe1ff7c53b852276f18453a
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:38:05 2024 +0900
+
+    ピースの色を変更
+    
+    深緑を明るい色に変更
+
+commit 65d4e373b2421e38c1000f6b3fb8c11423ba0b58
+Author: Haruya Kouduma <231205082@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:23:56 2024 +0900
+
+    canvas-tetrisのソースコードをインポート
